@@ -1,6 +1,6 @@
-**BlyncSync Technologies Privacy Policy**
+# BlyncSync Technologies, LCC Privacy Policy
 
-We at BlyncSync Technologies, LLC. ("BlyncSync Technologies"), are committed to protecting the privacy of customers and users of our BlyncSync Technologies services, users of our website, www.blyncsync.tech, our services, and our mobile applications. We have therefore created this policy statement (the “Policy”) to explain our privacy practices and procedures, including:
+We at BlyncSync Technologies, LLC. ("BlyncSync Technologies"), are committed to protecting the privacy of customers and users of our BlyncSync Technologies services, users of our website, www.blyncsync.com, our services, and our mobile applications. We have therefore created this policy statement (the “Policy”) to explain our privacy practices and procedures, including:
 
     1. Information we collect
     2. Our use of personally identifiable information
@@ -23,7 +23,7 @@ We believe that you should know what information we collect from you, as well as
 
 By purchasing, subscribing to, or using BlyncSync Technologies’s services or using BlyncSync Technologies’s website, you agree to the terms and conditions set forth in this Policy. 
 
-1. INFORMATION WE COLLECT
+## 1. INFORMATION WE COLLECT
 
 We collect a variety of personally identifiable information (also referred to as "personal data") about users of our services and visitors to our website in order to ensure an enjoyable user experience and seamless communications. When we use the term “personally identifiable information,” we mean information that is directly associated with, or could be used to identify, a specific person. Such information includes a name, address, telephone number, e-mail address, or information about activities directly linked to that person which would permit the physical or online contacting of that person.
 
@@ -57,7 +57,7 @@ BlyncSync Technologies does not knowingly collect—either actively or passively
 
 To see how we use, disclose, and protect the personally identifiable information that we collect, please review the rest of this Policy.
 
-2. OUR USE OF PERSONALLY IDENTIFIABLE INFORMATION
+## 2. OUR USE OF PERSONALLY IDENTIFIABLE INFORMATION
 
 **Our Internal Use:** In general, we use personally identifiable information to serve our existing and prospective customers and to enhance and extend our customer relationships. By understanding how you use our services and our website, we are able to customize and personalize our interactions with you. More specifically:
 
@@ -79,7 +79,7 @@ While you may choose not to receive marketing information from us, you will cont
 
 **Third-Party Use:** To understand when and how BlyncSync Technologies may disclose personally identifiable information to unaffiliated third parties, please read the Disclosure of Your Personally Identifiable Information section below.
 
-3. DISCLOSURE OF PERSONALLY IDENTIFIABLE INFORMATION
+## 3. DISCLOSURE OF PERSONALLY IDENTIFIABLE INFORMATION
 
 Because information about our existing and prospective customers is one of our most important business assets, we seek to protect it and keep it confidential. We do not share personally identifiable information with unaffiliated third parties, nor do we sell it to third parties, unless permitted to do so in accordance with this Policy.
 
@@ -117,7 +117,7 @@ For European Economic Area ("EEA") customers, this may mean that the personally 
 
 **Emergency Calls:** If you dial for emergency services (e.g., 911 in the U.S.), we may provide personally identifiable location information to a public safety answering point; emergency medical service provider or dispatch provider; public safety, fire service, or law enforcement official; hospital emergency or other medical care facility; or to a service provider that provides such information to such emergency responders.
 
-4. CUSTOMER PROPRIETARY NETWORK INFORMATION
+## 4. CUSTOMER PROPRIETARY NETWORK INFORMATION
 
 In the normal course of providing neural network driven fatigue related conclusion services to its users and customers, BlyncSync Technologies collects and maintains certain customer proprietary network information ("CPNI"). Your CPNI includes the types of neural network driven fatigue related conclusion services you currently purchase or subscribe to, how you use those services (for example, your fatigue records), and billing information related to those services. Your BlyncSync Technologies name, and address do not constitute CPNI.
 
@@ -127,7 +127,7 @@ Protecting your CPNI is important to us. In the United States, Federal law permi
 
 In order to opt-out and restrict access to your CPNI for our own marketing purposes, please contact us within 30 days of this notice. Restricting our use of your CPNI will not affect our provision of any service or product to which you currently subscribe, nor will you necessarily eliminate all types of BlyncSync Technologies marketing.
 
-5. SECURITY AND DATA INTEGRITY
+## 5. SECURITY AND DATA INTEGRITY
 
 We maintain a variety of physical, electronic, and procedural safeguards to guard your personally identifiable information and CPNI. Specifically, we use commercially accepted procedures and reasonable security systems to protect against unauthorized access to our systems. We restrict access to your personally identifiable information and CPNI to those employees and contractors—all of whom are covered by this Policy—who need to know that information to provide services to you or otherwise assist you for a legitimate business reason. We protect the security of your personally identifiable information during transmission via the BlyncSync Technologies website by using Secure Sockets Layer ("SSL") software, which encrypts information you input, so that no one else can read it as it is transmitted over the Internet. And we use an SSL connection to enable you to view, enter, and change the information in the “Preferences” section securely on our website or application.
 
@@ -135,7 +135,7 @@ You can take additional steps on your own to safeguard your personally identifia
 
 Please be advised that BlyncSync Technologies has no control over or responsibility for the security or privacy policies or practices of other sites on the Internet you might visit, interact with, or from which you might buy products or services, even if you visit them using links from the BlyncSync Technologies website.
 
-6. OUR USE OF "COOKIES"
+## 6. OUR USE OF "COOKIES"
 
 BlyncSync Technologies uses tracking technologies such as "cookies", tags, and scripts to enhance your use of our website. “Cookies” are small text files placed on your computer’s hard drive by a website when you visit that website. These files identify your computer and record your preferences and other data about your visit to a website so that when you return to that site, the site operator knows who you are and can personalize your visit. For example, cookies enable a website shopping cart to function so that you only have to check out once.
 
@@ -167,58 +167,56 @@ BlyncSync Technologies does not use technology that recognizes browser "Do Not T
 
 **Google Chrome:** Click the wrench icon to the right of the address bar and select "Settings". Click “Show advanced settings…”, scroll down to the “Privacy” section, and click “Content settings”. Under the “Cookies section”, you can select “Block sites from setting any data” or “Block third-party cookies and site data” to prevent cookies from being set. In order to delete cookies, click “All cookies and site data”, scroll to the particular cookies you would like to remove, and click “x” to the right of the cookies, or click “Remove all” to remove all cookies. Click “OK” when you are finished making your changes.
 
-7. OUR USE OF WEB BEACONS
+## 7. OUR USE OF WEB BEACONS
 
 BlyncSync Technologies uses web beacons on its website. A web beacon (sometimes called a "web bug" or “clear GIF”) is a tiny graphic image (usually a 1-by-1 pixel) displayed in a webpage, web-based document, or e-mail message, but it is usually invisible, as it is usually the same color as the background of the webpage, document, or e-mail message. When the user’s web browser reads the HTML code for the web beacon to retrieve the image, it can pass along the IP address of the user’s computer, the time the web beacon was viewed and for how long, and the type of browser used. Web beacons can also be linked to a user’s cookies and any personally identifiable information that may be stored in them.
 
 BlyncSync Technologies uses web beacons to gather aggregate information, as described above in Information We Collect. BlyncSync Technologies does not use web beacons that link to cookies or to personally identifiable information on unaffiliated third-party websites. And it does not permit unaffiliated third parties to place such web beacons in advertisements on BlyncSync Technologies’s website.
 
-For its web beacons, BlyncSync Technologies uses Google Analytics to analyze use of BlyncSync Technologies’s website. For further information on how Google Analytics collects and uses information, you should refer to the Google Analytics Products and Services Privacy Statement at [https://www.google.tech/intl/en/policies/privacy/](https://www.google.tech/intl/en/policies/privacy/).
+For its web beacons, BlyncSync Technologies uses Google Analytics to analyze use of BlyncSync Technologies’s website. For further information on how Google Analytics collects and uses information, you should refer to the Google Analytics Products and Services Privacy Statement at [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/).
 
-8. OUR USE OF BANNER ADS
+## 8. OUR USE OF BANNER ADS
 
 We may use third-party advertising companies to place advertisements about BlyncSync Technologies products and services on other websites. These advertising companies may use cookies, web beacons, or other technologies to measure the effectiveness of our ads. The advertising companies may use anonymous information about your visits to our and other websites in order to measure advertising effectiveness and offer selective ad content. But they use an anonymous identifier, such as a number, to identify you. They do not link to or collect any personally identifying information. The use of such cookies, web beacons, and other technologies is subject to the advertising companies’ privacy policies, not the privacy policy of BlyncSync Technologies. BlyncSync Technologies does not control and is not responsible for how third party sites handle personal information of users. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by contacting us, or by following the instructions to block cookies using your web browser settings, as described above. Please note this does not opt you out of being served advertising; you will continue to receive generic ads.
 
-9. CHECKING ACCOUNT AND "PREFERENCES" INFORMATION FOR ACCURACY
+## 9. CHECKING ACCOUNT AND "PREFERENCES" INFORMATION FOR ACCURACY
 
 BlyncSync Technologies customers can review or change the information in the "Preferences" section of our website or application, or by telephoning or writing to Customer Service. For Customer Service contact information, please see the Contacting Us section below. As noted in the Information We Collect About You section above, we may also use updated address information obtained from other sources to update our records. We will respond to your requests to access your records within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services contact us.
 
-10. SOCIAL MEDIA FEATURES
+## 10. SOCIAL MEDIA FEATURES
 
 Our website includes Social Media Features, such as the Facebook or Twitter button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the third party company providing them. BlyncSync Technologies does not control and is not responsible for how third party social media sites handle personal information of users.
 
-11. REFERRAL PROGRAMS
+## 11. REFERRAL PROGRAMS
 
 If you choose to use our referral programs to refer someone to our site, we will ask you for the intended recipient’s name, email address, and phone number. BlyncSync Technologies will store and use this information to send emails inviting him or her to visit the site. BlyncSync Technologies stores this information for the sole purpose of sending the emails and tracking the success of our referral program. By agreeing to the terms in this privacy policy you acknowledge that you have received any referral recipient’s consent to provide his or her information to BlyncSync Technologies. Your referral may contact us to request that we remove this information from our database.
 
-12. BLOGS AND FORUMS
+## 12. BLOGS AND FORUMS
 
 Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas is public and may be read, collected, and used by others who access them and may remain on the public forum indefinitely. To request removal of your personal information from our blog or community forum, contact us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. BlyncSync Technologies is not liable for the distribution of personal information posted on a public forum. We encourage all users to exercise caution when providing personal information in blogs and community forums.
 
-13. TESTIMONIALS
+## 13. TESTIMONIALS
 
 With your input and your consent, we may post a customer testimonial by you on our website, which may include your name, industry, company, title, or other identifying information. If you want your testimonial removed or wish to give or withdraw consent please contact us.
 
-14. ENFORCEMENT
+## 14. ENFORCEMENT
 
 BlyncSync Technologies regularly reviews its compliance with this Privacy Policy. Please contact us with any questions or concerns regarding this Privacy Policy or BlyncSync Technologies’s treatment of personal information. When we receive formal written complaints, it is BlyncSync Technologies’s policy to contact the complaining customer or user regarding his or her concerns.
 
-15. UPDATING OF OUR POLICY
+## 15. UPDATING OF OUR POLICY
 
 BlyncSync Technologies will revise or update this Policy if our practices change or as we change existing services, add new services, or develop better ways to inform you of services we think will interest you. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. You should refer back to this page for the latest information and the effective date of any changes.
 
-16. CONTACTING US
+## 16. CONTACTING US
 
 If you have any questions, comments or concerns about this Policy, please e-mail us at
 
-[info@blyncsync.tech](mailto:info@blyncsync.tech), [dev@blyncsync.tech](mailto:dev@blyncsync.tech), or call us at 1 (405) 345-7962. Or you can write to us at:
+[info@blyncsync.com](mailto:info@blyncsync.com), [dev@blyncsync.com](mailto:dev@blyncsync.com), or call us at 1 (405) 345-7962. Or you can write to us at:
 
-BlyncSync Technologies, LLC.
-
-4924 W. Commercial St.
-
-Broken Arrow, OK 74012 USA
+    BlyncSync Technologies, LLC.
+    4924 W. Commercial St.
+    Broken Arrow, OK 74012 USA
 
 BlyncSync Technologies is committed to the policies set forth in this Policy.

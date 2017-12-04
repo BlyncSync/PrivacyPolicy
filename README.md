@@ -1,6 +1,6 @@
 # BlyncSync Technologies, LCC Privacy Policy
 
-We at BlyncSync Technologies, LLC. ("BlyncSync Technologies"), are committed to protecting the privacy of customers and users of our BlyncSync Technologies services, users of our website, www.blyncsync.com, our services, and our mobile applications. We have therefore created this policy statement (the “Policy”) to explain our privacy practices and procedures, including:
+We at BlyncSync Technologies, LLC. ("BlyncSync Technologies"), are committed to protecting the privacy of customers and users of our BlyncSync Technologies services, users of our website, www.blyncsync.tech, our services, and our mobile applications. We have therefore created this policy statement (the “Policy”) to explain our privacy practices and procedures, including:
 
     1. Information we collect
     2. Our use of personally identifiable information
@@ -213,7 +213,7 @@ BlyncSync Technologies will revise or update this Policy if our practices change
 
 If you have any questions, comments or concerns about this Policy, please e-mail us at
 
-[info@blyncsync.com](mailto:info@blyncsync.com), [dev@blyncsync.com](mailto:dev@blyncsync.com), or call us at 1 (405) 345-7962. Or you can write to us at:
+[info@blyncsync.tech](mailto:info@blyncsync.tech), [dev@blyncsync.tech](mailto:dev@blyncsync.tech), or call us at 1 (405) 345-7962. Or you can write to us at:
 
     BlyncSync Technologies, LLC.
     4924 W. Commercial St.

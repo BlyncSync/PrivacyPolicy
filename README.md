@@ -1,4 +1,4 @@
-# BlyncSync Technologies, LCC Privacy Policy
+# BlyncSync Technologies, LLC Privacy Policy
 
 We at BlyncSync Technologies, LLC. ("BlyncSync Technologies"), are committed to protecting the privacy of customers and users of our BlyncSync Technologies services, users of our website, www.blyncsync.tech, our services, and our mobile applications. We have therefore created this policy statement (the “Policy”) to explain our privacy practices and procedures, including:
 
